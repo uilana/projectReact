@@ -1,0 +1,17 @@
+{
+    "name": "progectReakt",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "webpack"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^5.69.1",
+        "webpack-cli": "^4.10.0",
+        "html-webpack-plugin": "^5.5.0"
+    }
+}
